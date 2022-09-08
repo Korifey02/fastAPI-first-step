@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+sqlalchemy
+passlib
+bcrypt
+python-jose
+
+#and write in terminal:
+# pip install -r requirements.txt
